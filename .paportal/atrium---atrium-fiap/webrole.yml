@@ -1,0 +1,16 @@
+- adx_anonymoususersrole: true
+  adx_authenticatedusersrole: false
+  adx_name: Usuários Anônimos
+  adx_webroleid: 1bf8d9cd-33c2-4610-81da-6582d628c2c6
+- adx_anonymoususersrole: false
+  adx_authenticatedusersrole: true
+  adx_name: USUÁRIO
+  adx_webroleid: 42847896-21a1-46b7-8ba0-491b93436766
+- adx_anonymoususersrole: false
+  adx_authenticatedusersrole: false
+  adx_name: GESTORES
+  adx_webroleid: 5a4fc8b7-c70d-4ed5-940b-e22002c03b08
+- adx_anonymoususersrole: false
+  adx_authenticatedusersrole: false
+  adx_name: COMITE EURO
+  adx_webroleid: c67db067-4696-f011-b41c-6045bd3c24c2

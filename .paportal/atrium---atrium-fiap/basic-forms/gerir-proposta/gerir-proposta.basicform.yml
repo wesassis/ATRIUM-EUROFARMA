@@ -1,0 +1,21 @@
+adx_attachfilelabel: ''
+adx_attachfilemaxsize: 
+adx_attachfilestoragelocation: 756150000
+adx_captcharequired: false
+adx_containername: ''
+adx_entityformid: 2874d945-4cf6-4590-814e-b2be2fb700f2
+adx_entityname: new_proposta
+adx_entitypermissionsenabled: true
+adx_entitysourcetype: 756150001
+adx_formname: gerir-proposta
+adx_hideformonsuccess: true
+adx_maximumnooffiles: 5
+adx_mode: 100000001
+adx_name: gerir-proposta
+adx_onsuccess: 756150000
+adx_recordidquerystringparametername: id
+adx_redirecturl: 
+adx_redirectwebpage: 
+adx_showcaptchaforauthenticatedusers: false
+adx_storageaccountname: ''
+adx_successmessage: ''

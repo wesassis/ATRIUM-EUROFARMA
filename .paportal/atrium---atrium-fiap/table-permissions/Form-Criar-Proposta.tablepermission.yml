@@ -1,0 +1,17 @@
+adx_accountrelationship: 
+adx_append: true
+adx_appendto: true
+adx_contactrelationship: 
+adx_create: true
+adx_delete: false
+adx_entitylogicalname: new_proposta
+adx_entityname: Form Criar Proposta
+adx_entitypermission_webrole:
+- 42847896-21a1-46b7-8ba0-491b93436766
+- 5a4fc8b7-c70d-4ed5-940b-e22002c03b08
+adx_entitypermissionid: 9ad283e9-4b1b-4b74-bfa8-bf9cb1457ff2
+adx_parententitypermission: 
+adx_parentrelationship: 
+adx_read: true
+adx_scope: 756150000
+adx_write: true

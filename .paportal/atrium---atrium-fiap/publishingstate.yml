@@ -1,0 +1,10 @@
+- adx_displayorder: 1
+  adx_isdefault: false
+  adx_isvisible: false
+  adx_name: Rascunho
+  adx_publishingstateid: 40063469-2333-4a8a-855b-f5b704c67a0c
+- adx_displayorder: 2
+  adx_isdefault: true
+  adx_isvisible: true
+  adx_name: Publicação
+  adx_publishingstateid: df7db1b2-afd6-41eb-9fbd-cbf1c04093c9

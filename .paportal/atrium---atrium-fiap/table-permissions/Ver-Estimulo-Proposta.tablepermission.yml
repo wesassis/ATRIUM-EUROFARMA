@@ -1,0 +1,17 @@
+adx_accountrelationship: 
+adx_append: false
+adx_appendto: false
+adx_contactrelationship: 
+adx_create: false
+adx_delete: false
+adx_entitylogicalname: new_estimulo
+adx_entityname: Ver Estimulo Proposta
+adx_entitypermission_webrole:
+- 42847896-21a1-46b7-8ba0-491b93436766
+- 5a4fc8b7-c70d-4ed5-940b-e22002c03b08
+adx_entitypermissionid: b45dbb1c-a6d6-4a84-ad35-4a7951fdcdde
+adx_parententitypermission: b1e9f094-dab1-4107-9c09-f331e6560961
+adx_parentrelationship: new_proposta_ESTIMULO_new_estimulo
+adx_read: true
+adx_scope: 756150003
+adx_write: false

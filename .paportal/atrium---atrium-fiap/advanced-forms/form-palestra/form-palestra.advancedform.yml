@@ -1,0 +1,11 @@
+adx_editexistingrecordpermitted: true
+adx_multiplerecordsperuserpermitted: true
+adx_name: form-palestra
+adx_progressindicatorenabled: true
+adx_progressindicatorignorelaststep: false
+adx_progressindicatorposition: 756150000
+adx_progressindicatorprependstepnum: false
+adx_progressindicatortype: 756150000
+adx_savechangeswarningonclose: true
+adx_startstep: 7115c31d-e596-439c-a13c-e1215ab83d17
+adx_webformid: 8cfe3873-876d-4e08-96c1-ccf20af8fc0e

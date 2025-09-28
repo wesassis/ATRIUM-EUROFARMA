@@ -1,0 +1,59 @@
+- adx_name: Conceder Alteração para Conteúdo
+  adx_right: 1
+  adx_webpageaccesscontrolruleid: 166d80cc-1e49-444b-a0aa-a0b6b0b032ba
+- adx_name: Restrict Read on gerir-proposta
+  adx_right: 2
+  adx_scope: 1
+  adx_webpageaccesscontrolrule_webrole:
+  - 42847896-21a1-46b7-8ba0-491b93436766
+  - 5a4fc8b7-c70d-4ed5-940b-e22002c03b08
+  adx_webpageaccesscontrolruleid: 287d1665-34c7-dc7c-e46e-4b7a3728ac12
+  adx_webpageid: 14952c12-6d10-c1de-3e23-d71b749adf76
+- adx_name: Restrict Read on definir-pontos-comite-euro
+  adx_right: 2
+  adx_scope: 1
+  adx_webpageaccesscontrolrule_webrole:
+  - 42847896-21a1-46b7-8ba0-491b93436766
+  - 5a4fc8b7-c70d-4ed5-940b-e22002c03b08
+  - c67db067-4696-f011-b41c-6045bd3c24c2
+  adx_webpageaccesscontrolruleid: 2ba62261-22a2-033b-6e98-9cb9c253ebe6
+  adx_webpageid: 1493e77e-768d-ec13-0242-1e2b40231605
+- adx_name: Conceder Alteração para Administradores
+  adx_right: 1
+  adx_webpageaccesscontrolrule_webrole:
+  - 5a4fc8b7-c70d-4ed5-940b-e22002c03b08
+  adx_webpageaccesscontrolruleid: 30895401-be25-4f34-ae82-07f46bf87e1d
+  adx_webpageid: eebee60c-e6e0-4e77-bde8-ea228678d792
+- adx_name: Restrict Read on minhas-propostas
+  adx_right: 2
+  adx_scope: 1
+  adx_webpageaccesscontrolrule_webrole:
+  - 42847896-21a1-46b7-8ba0-491b93436766
+  adx_webpageaccesscontrolruleid: 39727fb3-b5c8-98b7-42e6-7002ceccd37a
+  adx_webpageid: dfe02c26-ed8f-b489-1d1d-a196b0117ea0
+- adx_name: Restrict Read on form-proposta
+  adx_right: 2
+  adx_scope: 1
+  adx_webpageaccesscontrolrule_webrole:
+  - 42847896-21a1-46b7-8ba0-491b93436766
+  - 5a4fc8b7-c70d-4ed5-940b-e22002c03b08
+  adx_webpageaccesscontrolruleid: 3e04f2e0-95cd-d9ea-79f3-06d0f51ee512
+  adx_webpageid: aca68166-8cce-1768-50e4-663446935368
+- adx_name: Restrict Read on meus-relatorios
+  adx_right: 2
+  adx_scope: 1
+  adx_webpageaccesscontrolrule_webrole:
+  - 42847896-21a1-46b7-8ba0-491b93436766
+  - 5a4fc8b7-c70d-4ed5-940b-e22002c03b08
+  - c67db067-4696-f011-b41c-6045bd3c24c2
+  adx_webpageaccesscontrolruleid: 4c6bb42e-baa5-db8c-87ba-1e5c07be9b0f
+  adx_webpageid: 92fcb9e3-b9b3-800a-b4af-11399448108e
+- adx_name: Restrict Read on definir-pontos-comite
+  adx_right: 2
+  adx_scope: 1
+  adx_webpageaccesscontrolrule_webrole:
+  - 42847896-21a1-46b7-8ba0-491b93436766
+  - 5a4fc8b7-c70d-4ed5-940b-e22002c03b08
+  - c67db067-4696-f011-b41c-6045bd3c24c2
+  adx_webpageaccesscontrolruleid: 55525b7e-f5fe-617b-a466-beb0663f453e
+  adx_webpageid: 01f24e81-974e-35ac-4c3d-f3450bf9e94d

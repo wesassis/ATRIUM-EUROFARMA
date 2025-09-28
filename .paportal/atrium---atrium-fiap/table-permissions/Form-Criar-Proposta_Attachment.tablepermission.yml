@@ -1,0 +1,15 @@
+adx_accountrelationship: 
+adx_append: true
+adx_appendto: false
+adx_contactrelationship: 
+adx_create: true
+adx_delete: false
+adx_entitylogicalname: annotation
+adx_entityname: Form Criar Proposta_Attachment
+adx_entitypermission_webrole: []
+adx_entitypermissionid: 681a5f3c-6a7f-40fc-9648-864267531b1f
+adx_parententitypermission: 9ad283e9-4b1b-4b74-bfa8-bf9cb1457ff2
+adx_parentrelationship: new_proposta_Annotations
+adx_read: false
+adx_scope: 756150003
+adx_write: false
