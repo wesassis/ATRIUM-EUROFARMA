@@ -37,7 +37,7 @@ A solução é construída integralmente sobre o ecossistema **Microsoft Power P
 ## 4. Pré-requisitos para Desenvolvimento
 
 * Acesso a um ambiente Power Platform.
-* Licenças apropriadas (Power Apps, Power Pages, Power BI, Power Automate).
+* Licenças apropriadas (Power Apps, Power Pages, Power BI).
 * [Power Platform CLI](https://docs.microsoft.com/en-us/power-platform/developer/cli/overview) instalado.
 * Visual Studio Code com a extensão [Power Platform Tools](https://marketplace.visualstudio.com/items?itemName=microsoft-IsvExpTools.powerplatform-vscode).
 * Git para controle de versão.
