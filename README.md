@@ -8,7 +8,7 @@ ATRIUM é uma solução de gestão de portfólio de inovação desenvolvida para
 
 O desenvolvimento desta plataforma é uma resposta estratégica aos desafios do mercado de inovação corporativa, que incluem a **pressão por resultados de curto prazo** e a necessidade de alinhar os projetos de inovação à **eficiência operacional**. A solução implementa práticas de **gestão de portfólio**, já adotadas por 74% das empresas maduras, garantindo governança e visibilidade ao funil de inovação.
 
-[O Futuro da Gestão da Inovação 2025]([url](https://drive.google.com/file/d/1e-mi8ukhoB6XiZGqlxv4IDkt_g-0Img2/view?usp=drive_link))
+[O Futuro da Gestão da Inovação 2025](https://drive.google.com/file/d/1e-mi8ukhoB6XiZGqlxv4IDkt_g-0Img2/view?usp=drive_link)
 
 
 ## 2. Arquitetura e Stack Tecnológico
